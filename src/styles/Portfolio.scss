@@ -1,0 +1,50 @@
+@import "./DefaultStyle.scss";
+
+.section-portfolio {
+	@include default-card;
+
+	.title {
+		@include default-title;
+	}
+
+	> div {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		align-items: center;
+		flex-wrap: wrap;
+		a {
+			text-decoration: none;
+			background-color: #2e3440;
+			border-radius: 10px;
+			border: 3px solid #1e222a;
+			box-shadow: 2px 2px #1e222a;
+			max-width: 45%;
+			margin: 5px;
+			transition: 0.2s ease;
+
+			&:hover {
+				border: 3px solid #81a1c1;
+				box-shadow: 2px 2px #81a1c1;
+			}
+
+			.portfolio-item {
+				display: flex;
+				flex-direction: column;
+				img {
+					width: 100%;
+					border-radius: 10px;
+				}
+				span {
+					text-shadow: 4px 3px #1e222a;
+					color: white;
+					font-family: "Poppins", sans-serif;
+					font-weight: 800;
+					font-size: 15px;
+					padding: 5px 15px;
+					text-align: center;
+				}
+			}
+		}
+	}
+}
