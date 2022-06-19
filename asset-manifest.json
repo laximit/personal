@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.77e71963.css",
+    "main.js": "/personal/static/js/main.e5f231a0.js",
+    "static/media/codact.svg": "/personal/static/media/codact.89b8aef6988ac980c0516cf568a4f206.svg",
+    "static/media/profile-picture.jpeg": "/personal/static/media/profile-picture.a427ace7f2caef120283.jpeg",
+    "static/media/sass-logo.svg": "/personal/static/media/sass-logo.cecbe6a7486a5edd47038a6e59571197.svg",
+    "static/media/linux-logo.svg": "/personal/static/media/linux-logo.3bf9bb8ad46165ed20e3768dff7127d8.svg",
+    "static/media/react-logo.svg": "/personal/static/media/react-logo.466cd0790e28320d0ba17a1265921b52.svg",
+    "static/media/shell-logo.svg": "/personal/static/media/shell-logo.44a3554a466d6e4d459d295a49147085.svg",
+    "static/media/github-brands.svg": "/personal/static/media/github-brands.f965a03ad329aa9d525566dfb450ccee.svg",
+    "static/media/instagram-brands.svg": "/personal/static/media/instagram-brands.1efbe92df97da1355d45e7f053e736de.svg",
+    "static/media/cs-logo.svg": "/personal/static/media/cs-logo.bfc90a53234c32bf9b0c43fcfbb87c8d.svg",
+    "static/media/python-logo.svg": "/personal/static/media/python-logo.399ce8b93ff79bc5d4c12602e34b12b0.svg",
+    "static/media/reddit-alien-brands.svg": "/personal/static/media/reddit-alien-brands.1728ef8e749eccc16208a259c295e124.svg",
+    "static/media/typescript-logo.svg": "/personal/static/media/typescript-logo.a6ab42d8edd02a6381d0bc272773f9e8.svg",
+    "static/media/js-logo.svg": "/personal/static/media/js-logo.0bf6211cd882f87bac8f0da39f3a4189.svg",
+    "index.html": "/personal/index.html",
+    "static/media/linkedin-in-brands.svg": "/personal/static/media/linkedin-in-brands.554f7085dee23f20ba137505d77802e5.svg",
+    "static/media/css-logo.svg": "/personal/static/media/css-logo.a5756ab96f7284a2842f5408a5aed619.svg",
+    "static/media/html-logo.svg": "/personal/static/media/html-logo.9213f52020d60430ec712c12ef0cb366.svg",
+    "main.77e71963.css.map": "/personal/static/css/main.77e71963.css.map",
+    "main.e5f231a0.js.map": "/personal/static/js/main.e5f231a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e71963.css",
+    "static/js/main.e5f231a0.js"
+  ]
+}
