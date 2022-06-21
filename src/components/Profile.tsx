@@ -3,12 +3,6 @@ import React from "react";
 // Styling
 import "../styles/Profile.scss";
 
-// Icons
-//import GithubLogo from "../assets/svg/github-brands.svg";
-import InstaLogo from "../assets/svg/instagram-brands.svg";
-import LinkedinLogo from "../assets/svg/linkedin-in-brands.svg";
-import RedditLogo from "../assets/svg/reddit-alien-brands.svg";
-
 import images from "./DefaultIcons";
 
 // Images
